@@ -10,5 +10,7 @@ package github01;
  * @author luiz.seibel
  */
 public class GitHubAula01 {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
